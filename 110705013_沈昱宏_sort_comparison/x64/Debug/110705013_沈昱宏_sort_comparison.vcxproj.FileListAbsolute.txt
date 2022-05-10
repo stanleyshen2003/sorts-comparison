@@ -1,0 +1,5 @@
+C:\Users\stanl\Desktop\資結作業\110705013_沈昱宏_sort_comparison\x64\Debug\110705013_沈昱宏_sort_comparison.vcxproj.AssemblyReference.cache
+C:\Users\stanl\Desktop\資結作業\110705013_沈昱宏_sort_comparison\x64\Debug\110705013_沈昱宏_sort_comparison.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\stanl\Desktop\資結作業\110705013_沈昱宏_sort_comparison\x64\Debug\_110705013_沈昱宏_sort_comparison.Form1.resources
+C:\Users\stanl\Desktop\資結作業\110705013_沈昱宏_sort_comparison\x64\Debug\110705013_沈昱宏_sort_comparison.vcxproj.GenerateResource.cache
+C:\Users\stanl\Desktop\資結作業\110705013_沈昱宏_sort_comparison\x64\Debug\110705013_沈昱宏_sort_comparison.exe
